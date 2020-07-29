@@ -10,4 +10,5 @@ for line in story:
 
 story.close()
 
-print(story_words)
+for word in story_words:
+    print(word)

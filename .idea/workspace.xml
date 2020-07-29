@@ -2,7 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="8f413a97-767f-4a90-8ded-9432359c8501" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/strings-collections-iteration/words.py" beforeDir="false" afterPath="$PROJECT_DIR$/strings-collections-iteration/words.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -74,8 +73,9 @@
       <updated>1596010147335</updated>
       <workItem from="1596010148774" duration="463000" />
       <workItem from="1596011462616" duration="185000" />
-      <workItem from="1596016100710" duration="889000" />
+      <workItem from="1596016100710" duration="1243000" />
     </task>
+    <option name="searchClosedTasks" value="true" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -86,6 +86,10 @@
       <screen x="0" y="23" width="1792" height="1097" />
     </state>
     <state x="360" y="193" key="#com.intellij.execution.impl.EditConfigurationsDialog/-1920.-321.1920.1097/0.23.1792.1097@0.23.1792.1097" timestamp="1596010679952" />
+    <state x="100" y="123" width="1592" height="820" key="DiffContextDialog" timestamp="1596017589873">
+      <screen x="0" y="23" width="1792" height="1020" />
+    </state>
+    <state x="100" y="123" width="1592" height="820" key="DiffContextDialog/-1920.-321.1920.1177/0.23.1792.1020@0.23.1792.1020" timestamp="1596017589873" />
     <state width="1750" height="276" key="GridCell.Tab.0.bottom" timestamp="1596010781531">
       <screen x="0" y="23" width="1792" height="1097" />
     </state>
@@ -110,6 +114,10 @@
       <screen x="0" y="23" width="1792" height="1020" />
     </state>
     <state x="573" y="365" key="com.intellij.ide.util.TipDialog/-1920.-321.1920.1177/0.23.1792.1020@0.23.1792.1020" timestamp="1596016103621" />
+    <state x="689" y="225" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1596017464083">
+      <screen x="0" y="23" width="1792" height="1020" />
+    </state>
+    <state x="689" y="225" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser/-1920.-321.1920.1177/0.23.1792.1020@0.23.1792.1020" timestamp="1596017464083" />
     <state x="561" y="248" width="670" height="676" key="search.everywhere.popup" timestamp="1596010315060">
       <screen x="0" y="23" width="1792" height="1097" />
     </state>

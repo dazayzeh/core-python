@@ -3,7 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="8f413a97-767f-4a90-8ded-9432359c8501" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/strings-collections-iteration/readLiterature.py" beforeDir="false" afterPath="$PROJECT_DIR$/strings-collections-iteration/readLiterature.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/strings-collections-iteration/words.py" beforeDir="false" afterPath="$PROJECT_DIR$/strings-collections-iteration/words.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -74,6 +74,7 @@
       <updated>1596010147335</updated>
       <workItem from="1596010148774" duration="463000" />
       <workItem from="1596011462616" duration="185000" />
+      <workItem from="1596016100710" duration="889000" />
     </task>
     <servers />
   </component>

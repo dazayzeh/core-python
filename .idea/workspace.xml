@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="8f413a97-767f-4a90-8ded-9432359c8501" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1fLvNUohZ1OP2EsFZaz82vFcqhu" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="nodejs.jest.jest_package" value="" />
+    <property name="nodejs.protractor.protractor_package" value="" />
+    <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
+  </component>
+  <component name="RunManager">
+    <configuration name="readLiterature" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="python-projects" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/strings-collections-iteration" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/strings-collections-iteration/readLiterature.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.readLiterature" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="8f413a97-767f-4a90-8ded-9432359c8501" name="Default Changelist" comment="" />
+      <created>1596010147335</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1596010147335</updated>
+      <workItem from="1596010148774" duration="463000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="360" y="193" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1596010679952">
+      <screen x="0" y="23" width="1792" height="1097" />
+    </state>
+    <state x="360" y="193" key="#com.intellij.execution.impl.EditConfigurationsDialog/-1920.-321.1920.1097/0.23.1792.1097@0.23.1792.1097" timestamp="1596010679952" />
+    <state width="1750" height="276" key="GridCell.Tab.0.bottom" timestamp="1596010781531">
+      <screen x="0" y="23" width="1792" height="1097" />
+    </state>
+    <state width="1750" height="276" key="GridCell.Tab.0.bottom/-1920.-321.1920.1097/0.23.1792.1097@0.23.1792.1097" timestamp="1596010781531" />
+    <state width="1750" height="276" key="GridCell.Tab.0.center" timestamp="1596010781530">
+      <screen x="0" y="23" width="1792" height="1097" />
+    </state>
+    <state width="1750" height="276" key="GridCell.Tab.0.center/-1920.-321.1920.1097/0.23.1792.1097@0.23.1792.1097" timestamp="1596010781530" />
+    <state width="1750" height="276" key="GridCell.Tab.0.left" timestamp="1596010781530">
+      <screen x="0" y="23" width="1792" height="1097" />
+    </state>
+    <state width="1750" height="276" key="GridCell.Tab.0.left/-1920.-321.1920.1097/0.23.1792.1097@0.23.1792.1097" timestamp="1596010781530" />
+    <state width="1750" height="276" key="GridCell.Tab.0.right" timestamp="1596010781531">
+      <screen x="0" y="23" width="1792" height="1097" />
+    </state>
+    <state width="1750" height="276" key="GridCell.Tab.0.right/-1920.-321.1920.1097/0.23.1792.1097@0.23.1792.1097" timestamp="1596010781531" />
+    <state x="397" y="170" key="SettingsEditor" timestamp="1596010358581">
+      <screen x="0" y="23" width="1792" height="1097" />
+    </state>
+    <state x="397" y="170" key="SettingsEditor/-1920.-321.1920.1097/0.23.1792.1097@0.23.1792.1097" timestamp="1596010358581" />
+    <state x="561" y="248" width="670" height="676" key="search.everywhere.popup" timestamp="1596010315060">
+      <screen x="0" y="23" width="1792" height="1097" />
+    </state>
+    <state x="561" y="248" width="670" height="676" key="search.everywhere.popup/-1920.-321.1920.1097/0.23.1792.1097@0.23.1792.1097" timestamp="1596010315060" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/python_projects$readLiterature.coverage" NAME="readLiterature Coverage Results" MODIFIED="1596010781520" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/strings-collections-iteration" />
+  </component>
+</project>

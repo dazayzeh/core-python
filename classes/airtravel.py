@@ -2,6 +2,9 @@
 
 
 class Flight:
-    
+
+    def __init(self, number):
+        self._number = number
+
     def number(self):
-        return "DEFAULT_VALUE"
+        return self._number

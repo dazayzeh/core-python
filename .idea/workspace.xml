@@ -2,7 +2,19 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="8f413a97-767f-4a90-8ded-9432359c8501" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/classes/airtravel.py" beforeDir="false" afterPath="$PROJECT_DIR$/classes/airtravel.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/built-in-collections/dict.py" beforeDir="false" afterPath="$PROJECT_DIR$/collections/dict.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/built-in-collections/lists.py" beforeDir="false" afterPath="$PROJECT_DIR$/collections/lists.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/built-in-collections/range_and _eunm.py" beforeDir="false" afterPath="$PROJECT_DIR$/collections/range_and _eunm.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/built-in-collections/sets.py" beforeDir="false" afterPath="$PROJECT_DIR$/collections/sets.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/built-in-collections/strings.py" beforeDir="false" afterPath="$PROJECT_DIR$/collections/strings.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/built-in-collections/tuples.py" beforeDir="false" afterPath="$PROJECT_DIR$/collections/tuples.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/iterations-and-iterables/comprehensions.py" beforeDir="false" afterPath="$PROJECT_DIR$/iterations/comprehensions.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/iterations-and-iterables/generators.py" beforeDir="false" afterPath="$PROJECT_DIR$/iterations/generators.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/iterations-and-iterables/generators_expressions.py" beforeDir="false" afterPath="$PROJECT_DIR$/iterations/generators_expressions.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/iterations-and-iterables/iterable.py" beforeDir="false" afterPath="$PROJECT_DIR$/iterations/iterable.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/iterations-and-iterables/iteration_tools.py" beforeDir="false" afterPath="$PROJECT_DIR$/iterations/iteration_tools.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/strings-collections-iteration/words.py" beforeDir="false" afterPath="$PROJECT_DIR$/strings/words.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -198,7 +210,8 @@
       <workItem from="1596119752399" duration="1848000" />
       <workItem from="1596124510255" duration="983000" />
       <workItem from="1596126822866" duration="524000" />
-      <workItem from="1596127394460" duration="603000" />
+      <workItem from="1596127394460" duration="873000" />
+      <workItem from="1596128382037" duration="310000" />
     </task>
     <option name="searchClosedTasks" value="true" />
     <servers />
@@ -257,14 +270,14 @@
       <screen x="-128" y="-1177" width="1920" height="1177" />
     </state>
     <state width="500" height="445" key="SwitcherDM/-128.-1177.1920.1177/0.23.1792.1020@-128.-1177.1920.1177" timestamp="1596042627751" />
-    <state x="573" y="369" key="com.intellij.ide.util.TipDialog" timestamp="1596126831175">
+    <state x="573" y="369" key="com.intellij.ide.util.TipDialog" timestamp="1596128382196">
       <screen x="0" y="23" width="1792" height="1030" />
     </state>
     <state x="486" y="-782" key="com.intellij.ide.util.TipDialog/-128.-1177.1920.1177/0.23.1792.1020@-128.-1177.1920.1177" timestamp="1596048541962" />
     <state x="573" y="365" key="com.intellij.ide.util.TipDialog/-128.-1177.1920.1177/0.23.1792.1020@0.23.1792.1020" timestamp="1596040618720" />
     <state x="486" y="-782" key="com.intellij.ide.util.TipDialog/-128.-1177.1920.1177/0.23.1792.1022@0.23.1792.1022" timestamp="1596093327112" />
     <state x="573" y="368" key="com.intellij.ide.util.TipDialog/-128.-1177.1920.1177/0.23.1792.1028@0.23.1792.1028" timestamp="1596104750753" />
-    <state x="573" y="369" key="com.intellij.ide.util.TipDialog/-128.-1177.1920.1177/0.23.1792.1030@0.23.1792.1030" timestamp="1596126831175" />
+    <state x="573" y="369" key="com.intellij.ide.util.TipDialog/-128.-1177.1920.1177/0.23.1792.1030@0.23.1792.1030" timestamp="1596128382196" />
     <state x="573" y="365" key="com.intellij.ide.util.TipDialog/-1920.-321.1920.1177/0.23.1792.1020@0.23.1792.1020" timestamp="1596026933486" />
     <state x="689" y="225" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1596017464083">
       <screen x="0" y="23" width="1792" height="1020" />

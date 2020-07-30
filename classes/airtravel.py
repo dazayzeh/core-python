@@ -14,7 +14,22 @@ class Flight:
         self._number = number
         self._aircraft = aircraft
         rows, seats = self._aircraft.seating_plan()
-        self._seating = [None] + [{l: None for l in seats} for _ in rows]   # throw first row because it starts at zero
+        self._seating = [None] + [ { l : None for l in seats} for _ in rows]   # throw first row because it starts at zero
+
+    def allocate_seat(self, seat, customer_name):
+        rows, seats_letter = self._aircraft.seating_plan()
+
+        seat_letter = seat[-1]
+        row = seat[:-1]
+
+        if seat_letter not in seats_letter:
+            raise ValueError(f"invalid seat letter {seats_letter}")
+        if row not in rows:
+            raise ValueError(f"invalid row letter {row}")
+        if self._seating[row][seats_letter] is not None:
+            raise ValueError(f"seat {seat} already taken")
+
+        self._seating[row][seat_letter] = customer_name
 
     def aircraft_model(self):
         return self._aircraft.model()

@@ -14,7 +14,7 @@ class Flight:
         self._number = number
         self._aircraft = aircraft
         rows, seats = self._aircraft.seating_plan()
-        self._seating = [None] + [ { l : None for l in seats} for _ in rows]   # throw first row because it starts at zero
+        self._seating = [None] + [{l: None for l in seats} for _ in rows]  # throw first row because it starts at zero
 
     def allocate_seat(self, seat, customer_name):
         """Locate a customer in a seat if available
@@ -65,36 +65,38 @@ class Flight:
         return row, seat_letter
 
     def number_of_available_seats(self):
-        return sum(   # get the sum of all sums
+        return sum(  # get the sum of all sums
             sum(1 for seat in row.values() if seat is None)  # generator expression to add 1 for each available row
-                   for row in self._seating  # access each row in the list
-                   if row is not None  # if not first row because we defined it as None
+            for row in self._seating  # access each row in the list
+            if row is not None  # if not first row because we defined it as None
         )
 
-    def aircraft_model(self):
-        return self._aircraft.model()
 
-    def number(self):
-        return self._number
+class FakeAirFlight300:
 
-    def airline(self):
-        return self._number[:2]
-
-
-class Aircraft:
-
-    def __init__(self, reg, model, rows, seats):
+    def __init__(self, reg):
         self._reg = reg
-        self._model = model
-        self._rows = rows
-        self._seats = seats
+
+    def reg(self):
+        return self._reg
+
+    def seating_plan(self):
+        return range(1, 20), "ABCDEFG"
+
+    def model(self):
+        return "FakeAirFlight 300"
+
+
+class FakeAirFlight900:
+
+    def __init__(self, reg):
+        self._reg = reg
 
     def reg(self):
         return self._reg
 
     def model(self):
-        return self._model
+        return "FakeAirFlight 900"
 
     def seating_plan(self):
-        return ((range(1, self._rows + 1)
-                 , 'ABCDEFG'[:self._seats]))
+        return range(1, 30), "ABCD"

@@ -1,4 +1,7 @@
 """ Model for air flights """
 
+
 class Flight:
-    pass
+    
+    def number(self):
+        return "DEFAULT_VALUE"

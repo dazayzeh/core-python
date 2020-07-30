@@ -37,6 +37,13 @@ class Flight:
 
         return row, seat_letter
 
+    def number_of_available_seats(self):
+        return sum(   # get the sum of all sums
+            sum(1 for seat in row.values() if seat is None)  # generator expression to add 1 for each available row
+                   for row in self._seatingn  # access each row in the list
+                   if row is not None  # if not first row because we defined it as None
+        )
+
     def aircraft_model(self):
         return self._aircraft.model()
 

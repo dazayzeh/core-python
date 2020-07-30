@@ -2,7 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="8f413a97-767f-4a90-8ded-9432359c8501" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/classes/airtravel.py" beforeDir="false" afterPath="$PROJECT_DIR$/classes/airtravel.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -199,7 +198,7 @@
       <workItem from="1596119752399" duration="1848000" />
       <workItem from="1596124510255" duration="983000" />
       <workItem from="1596126822866" duration="524000" />
-      <workItem from="1596127394460" duration="343000" />
+      <workItem from="1596127394460" duration="603000" />
     </task>
     <option name="searchClosedTasks" value="true" />
     <servers />

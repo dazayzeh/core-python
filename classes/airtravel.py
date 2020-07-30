@@ -46,7 +46,7 @@ class Flight:
         self._seating[to_row][to_seat_letter] = self._seating[from_row][from_seat_letter]
         self._seating[from_row][from_seat_letter] = None
 
-    def _parse_seat(self, seat):
+    def _parse_seat(self, seat):  # the name starts with underscore because it describes implementation details
         """ check if a given seat exists
 
         :param seat: the desired seat to parse
@@ -95,12 +95,6 @@ class FakeAirFlight300(Aircraft):
 
 
 class FakeAirFlight900(Aircraft):
-
-    def __init__(self, reg):
-        self._reg = reg
-
-    def reg(self):
-        return self._reg
 
     def model(self):
         return "FakeAirFlight 900"

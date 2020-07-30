@@ -72,13 +72,20 @@ class Flight:
         )
 
 
-class FakeAirFlight300:
+class Aircraft:
 
     def __init__(self, reg):
         self._reg = reg
 
     def reg(self):
         return self._reg
+
+    def num_seats(self):
+        rows, row_seats = self.seating_plan()
+        return len(rows) * len(row_seats)
+
+
+class FakeAirFlight300(Aircraft):
 
     def seating_plan(self):
         return range(1, 20), "ABCDEFG"
@@ -87,7 +94,7 @@ class FakeAirFlight300:
         return "FakeAirFlight 300"
 
 
-class FakeAirFlight900:
+class FakeAirFlight900(Aircraft):
 
     def __init__(self, reg):
         self._reg = reg

@@ -2,5 +2,5 @@
 Training for python core skills
 
 
-This repo to help onboard you with paython core and basic concepts.
+This repo helps onboarding you with python's core and basic concepts.
 
